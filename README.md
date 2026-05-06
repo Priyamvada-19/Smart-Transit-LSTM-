@@ -15,32 +15,33 @@ Saves outputs (model + predictions)
 ```
 ├── LSTM.ipynb          # Main notebook with implementation
 ├── README.md           # Project documentation
+
 ```
 
 ## **Technologies Used**
-Python 
-NumPy
-Pandas
-Matplotlib
-Scikit-learn
-TensorFlow / Keras
+1) Python 
+2) NumPy
+3) Pandas
+4) Matplotlib
+5) Scikit-learn
+6) TensorFlow / Keras
 
 ## **Workflow**
-1. Data Preprocessing
+1. *Data Preprocessing*
 Load dataset
 Normalize values using MinMaxScaler
 Convert data into sequences for LSTM
-2. Model Building
+2. *Model Building*
 LSTM layers
 Dense output layer
 Compile model with loss function and optimizer
-3. Training
+3. *Training*
 Train model on training dataset
 Validate using test dataset
-4. Prediction
+4. *Prediction*
 Predict future values
 Compare predicted vs actual values
-5. Visualization
+5. *Visualization*
 Plot training results
 Plot predictions vs real data
 
@@ -75,3 +76,11 @@ tensorflow
 Add GRU model comparison
 Deploy as a web app
 Real-time data integration
+
+##  Author
+
+* Priyamvada Kumar
+ 
+##  Acknowledgment
+
+This project was built as part of learning Machine Learning.
