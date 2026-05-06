@@ -1,4 +1,4 @@
-##**LSTM Time Series Prediction Project**
+<h>**LSTM Time Series Prediction Project**</h1>
  
 This project builds a Long Short-Term Memory (LSTM) model to predict public transport ridership using historical data.
 
