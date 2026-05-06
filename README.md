@@ -1,4 +1,4 @@
-<h>**LSTM Time Series Prediction Project**</h1>
+## **LSTM Time Series Prediction Project**
  
 This project builds a Long Short-Term Memory (LSTM) model to predict public transport ridership using historical data.
 
@@ -11,13 +11,13 @@ Evaluates performance
 Forecasts future ridership (30 days)
 Saves outputs (model + predictions)
 
-**Project Structure** 
+## **Project Structure** 
 ```
 ├── LSTM.ipynb          # Main notebook with implementation
 ├── README.md           # Project documentation
 ```
 
-**Technologies Used**
+## **Technologies Used**
 Python 
 NumPy
 Pandas
@@ -25,7 +25,7 @@ Matplotlib
 Scikit-learn
 TensorFlow / Keras
 
-**Workflow**
+## **Workflow**
 1. Data Preprocessing
 Load dataset
 Normalize values using MinMaxScaler
@@ -44,7 +44,7 @@ Compare predicted vs actual values
 Plot training results
 Plot predictions vs real data
 
-**How to Run**
+## **How to Run**
 Clone the repository:
 ```
 git clone https://github.com/your-username/your-repo-name.git
@@ -61,7 +61,7 @@ Run the notebook:
 ```
 jupyter notebook
 ```
-**Requirements**
+## **Requirements**
 
 If you don’t have a requirements.txt, use:
 numpy
@@ -70,7 +70,7 @@ matplotlib
 scikit-learn
 tensorflow
 
-**Future Improvements**
+## **Future Improvements**
 
 Add GRU model comparison
 Deploy as a web app
